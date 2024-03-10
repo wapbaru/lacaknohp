@@ -42,6 +42,7 @@ try:
 	print("\033[1;33m> \033[1;32mLokasi\033[0m: ",x)
 	print("\033[1;33m> \033[1;32mSingkatan\033[0m: ",phonenumbers.region_code_for_number(pn))
 	print("\033[1;33m> \033[1;32mNomor terlalu panjang\033[0m: ",phonenumbers.truncate_too_long_number(pn))
+	print("\033[1;33m> \033[1;32mOrder Smm no #1 Hanya di\033[0m: ",https://Wapbaru.com)
 
 except KeyboardInterrupt:
 	print("\033[1;41mTerimakasih banyak!\033[0m")
