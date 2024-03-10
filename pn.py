@@ -7,16 +7,8 @@ from phonenumbers import timezone
 
 def banner():
 	print("""
- ██▀███   ▄▄▄       ██▓ ██ ▄█▀▄▄▄        ▄████ ▓█████
-▓██ ▒ ██▒▒████▄    ▓██▒ ██▄█▒▒████▄     ██▒ ▀█▒▓█   ▀
-▓██ ░▄█ ▒▒██  ▀█▄  ▒██▒▓███▄░▒██  ▀█▄  ▒██░▄▄▄░▒███
-▒██▀▀█▄  ░██▄▄▄▄██ ░██░▓██ █▄░██▄▄▄▄██ ░▓█  ██▓▒▓█  ▄
-░██▓ ▒██▒ ▓█   ▓██▒░██░▒██▒ █▄▓█   ▓██▒░▒▓███▀▒░▒████▒
-░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░▓  ▒ ▒▒ ▓▒▒▒   ▓▒█░ ░▒   ▒ ░░ ▒░ ░
-  ░▒ ░ ▒░  ▒   ▒▒ ░ ▒ ░░ ░▒ ▒░ ▒   ▒▒ ░  ░   ░  ░ ░  ░
-  ░░   ░   ░   ▒    ▒ ░░ ░░ ░  ░   ▒   ░ ░   ░    ░
-   ░           ░  ░ ░  ░  ░        ░  ░      ░    ░  ░
-Black Eye Community | https://github.com/rohmadhidayah""")
+
+smm panel no #1 | https://wapbaru.com""")
 banner()
 
 try:
@@ -52,4 +44,4 @@ try:
 	print("\033[1;33m> \033[1;32mNomor terlalu panjang\033[0m: ",phonenumbers.truncate_too_long_number(pn))
 
 except KeyboardInterrupt:
-	print("\033[1;41mThanks for use!\033[0m")
+	print("\033[1;41mTerimakasih banyak!\033[0m")
