@@ -1,5 +1,5 @@
-# Raikage
-Raikage merupakan alat yang berfungsi untuk mencari informasi melalui nomor telepon
+# info
+ merupakan alat yang berfungsi untuk mencari informasi melalui nomor telepon
 # Tested on
 Termux
 # Instalasi
@@ -9,8 +9,8 @@ pkg install python git -y
 
 pip install phonenumbers
 
-git clone https://github.com/rohmadhidayah/Raikage.git
+git clone https://github.com/wapbaru/lacaknohp.git
 
-cd Raikage
+cd lacaknohp
 
 python pn.py
