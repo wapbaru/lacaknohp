@@ -8,7 +8,7 @@ from phonenumbers import timezone
 def banner():
 	print("""
 
-smm panel no #1 | https://wapbaru.com""")
+Lacak No Hp""")
 banner()
 
 try:
